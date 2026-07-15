@@ -1,0 +1,34 @@
+# ============================================================
+# Week 1 — Environment, Data & Cleaning
+# ============================================================
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+feedparser>=6.0.10
+langdetect>=1.0.9
+ftfy>=6.1.1
+unidecode>=1.3.6
+nltk>=3.8.1
+beautifulsoup4>=4.12.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.2
+tqdm>=4.65.0
+scikit-learn>=1.3.0
+pyarrow>=13.0.0          # for parquet export
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# ============================================================
+# Staged for later weeks (not required for Week 1, listed here
+# so the environment only needs to be built once). Uncomment
+# as you reach the relevant week.
+# ============================================================
+# chromadb>=0.4.22             # Week 2 — vector database
+# sentence-transformers>=2.2.2 # Week 2 — embeddings
+# openai>=1.12.0                # Week 3 — OpenRouter/DeepSeek client (OpenAI-compatible API)
+# fastapi>=0.110.0              # Week 4 — API layer
+# uvicorn>=0.27.0               # Week 4 — ASGI server
+# gensim>=4.3.0                 # Week 1/3 — topic modeling (LDA)
+# transformers>=4.38.0          # sentiment analysis pipeline
+# python-dotenv>=1.0.0          # API key management
