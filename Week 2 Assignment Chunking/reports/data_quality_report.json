@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-07-25T05:52:57.686991+00:00",
+  "source": "ArXiv public API (export.arxiv.org)",
+  "categories": [
+    "cs.AI",
+    "cs.CL",
+    "cs.LG",
+    "cs.CV",
+    "cs.IR",
+    "cs.NE",
+    "cs.RO",
+    "stat.ML"
+  ],
+  "raw_document_count": 5600,
+  "pre_cleaning_validation": {
+    "total_rows": 5600,
+    "total_columns": 7,
+    "null_counts": {
+      "id": 0,
+      "title": 0,
+      "abstract": 0,
+      "authors": 0,
+      "category": 0,
+      "published": 0,
+      "primary_category": 0
+    },
+    "rows_with_any_null": 0,
+    "empty_abstract_count": 0,
+    "empty_title_count": 0,
+    "duplicate_ids": 760,
+    "duplicate_abstracts": 761,
+    "rows_with_encoding_issues": 0,
+    "min_abstract_len": 162,
+    "max_abstract_len": 2438,
+    "mean_abstract_len": 1422.1
+  },
+  "post_cleaning": {
+    "documents_flagged_empty_after_cleaning": 0,
+    "documents_flagged_too_short_after_cleaning": 0,
+    "documents_with_encoding_issues_fixed": 0,
+    "final_valid_document_count": 5600,
+    "final_valid_percentage": 100.0,
+    "mean_length_before": 1422.1,
+    "mean_length_after": 1406.4,
+    "language_distribution_top5": {
+      "en": 5600
+    }
+  }
+}

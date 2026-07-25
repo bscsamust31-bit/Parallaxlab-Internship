@@ -1,0 +1,41 @@
+query,repeat,embed_ms,chroma_query_ms,total_ms
+transformer models for natural language understanding,0,33.161,19.654,52.815
+transformer models for natural language understanding,1,24.56,9.06,33.621
+transformer models for natural language understanding,2,24.592,9.229,33.821
+transformer models for natural language understanding,3,26.138,9.25,35.388
+transformer models for natural language understanding,4,28.443,9.624,38.068
+convolutional neural networks for image classification,0,28.735,9.338,38.073
+convolutional neural networks for image classification,1,26.298,8.432,34.731
+convolutional neural networks for image classification,2,26.578,9.299,35.877
+convolutional neural networks for image classification,3,25.987,8.329,34.317
+convolutional neural networks for image classification,4,26.038,8.966,35.004
+convergence of stochastic gradient descent optimization,0,27.163,9.498,36.661
+convergence of stochastic gradient descent optimization,1,24.837,8.051,32.888
+convergence of stochastic gradient descent optimization,2,24.883,8.221,33.103
+convergence of stochastic gradient descent optimization,3,24.742,8.237,32.979
+convergence of stochastic gradient descent optimization,4,24.526,7.866,32.392
+dense embeddings for semantic document retrieval,0,30.858,8.874,39.732
+dense embeddings for semantic document retrieval,1,25.156,7.847,33.003
+dense embeddings for semantic document retrieval,2,25.212,7.789,33.001
+dense embeddings for semantic document retrieval,3,27.486,7.625,35.111
+dense embeddings for semantic document retrieval,4,24.841,8.248,33.088
+reinforcement learning for robot manipulation,0,24.915,9.041,33.956
+reinforcement learning for robot manipulation,1,23.191,9.578,32.768
+reinforcement learning for robot manipulation,2,27.833,8.473,36.306
+reinforcement learning for robot manipulation,3,24.333,8.003,32.335
+reinforcement learning for robot manipulation,4,28.671,9.733,38.404
+self-attention mechanisms in deep learning,0,32.802,9.814,42.616
+self-attention mechanisms in deep learning,1,24.081,8.415,32.496
+self-attention mechanisms in deep learning,2,29.471,8.994,38.465
+self-attention mechanisms in deep learning,3,24.459,9.049,33.508
+self-attention mechanisms in deep learning,4,26.761,9.135,35.896
+evaluation benchmarks for question answering systems,0,30.987,14.756,45.743
+evaluation benchmarks for question answering systems,1,33.972,10.433,44.405
+evaluation benchmarks for question answering systems,2,27.825,10.976,38.801
+evaluation benchmarks for question answering systems,3,25.669,9.721,35.391
+evaluation benchmarks for question answering systems,4,25.118,9.354,34.472
+neural network generalization to unseen data,0,32.212,14.754,46.966
+neural network generalization to unseen data,1,32.156,14.769,46.924
+neural network generalization to unseen data,2,28.008,9.035,37.043
+neural network generalization to unseen data,3,27.682,8.646,36.328
+neural network generalization to unseen data,4,24.587,8.63,33.217
