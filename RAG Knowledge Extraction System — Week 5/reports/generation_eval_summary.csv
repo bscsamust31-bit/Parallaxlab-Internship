@@ -1,0 +1,9 @@
+query,expected_out_of_domain,gate_accuracy,mean_retrieval_ms,mean_generation_ms,mean_total_ms,hallucination_rate
+best budget smartphones to buy in 2026,True,1.0,28.02,0.0,28.02,0.0
+convergence of stochastic gradient descent optimization,False,1.0,25.977,169.41,195.387,0.0
+convolutional neural networks for image classification,False,1.0,52.527,192.057,244.583,0.0
+dense embeddings for semantic document retrieval,False,1.0,29.817,129.403,159.22,0.0
+reinforcement learning for robot manipulation,False,1.0,27.973,102.037,130.01,0.0
+transformer models for natural language understanding,False,1.0,42.077,251.753,293.827,0.0
+what's a good recipe for pizza dough,True,1.0,31.573,0.0,31.573,0.0
+who won the football match last night,True,1.0,34.287,0.0,34.287,0.0

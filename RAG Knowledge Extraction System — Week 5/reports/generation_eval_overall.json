@@ -1,0 +1,11 @@
+{
+  "n_runs": 24,
+  "gate_accuracy": 1.0,
+  "mean_total_ms": 139.61,
+  "p95_total_ms": 296.98,
+  "mean_retrieval_ms": 34.03,
+  "mean_generation_ms": 105.58,
+  "in_domain_mean_groundedness_overlap": 0.739,
+  "in_domain_hallucination_rate": 0.0,
+  "in_domain_citation_coverage": 1.0
+}

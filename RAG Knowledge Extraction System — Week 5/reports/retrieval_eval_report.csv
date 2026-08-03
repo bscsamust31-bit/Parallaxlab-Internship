@@ -1,0 +1,11 @@
+query,relevant_category,n_relevant,precision@1,recall@1,precision@3,recall@3,precision@5,recall@5,precision@10,recall@10
+transformer models and self-attention for natural language understanding,cs.CL,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+language model architecture for text classification,cs.CL,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+convolutional neural networks for image classification,cs.CV,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+deep residual networks for computer vision,cs.CV,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+stochastic gradient descent convergence for deep learning,cs.LG,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+optimization and learning rate schedules in neural networks,cs.LG,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+dense retrieval and semantic search with bi-encoders,cs.IR,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+contrastive learning for document retrieval,cs.IR,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+reinforcement learning for robotic manipulation,cs.RO,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
+robot control policies trained via simulation,cs.RO,15,1.0,0.067,1.0,0.2,1.0,0.333,1.0,0.667
